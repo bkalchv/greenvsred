@@ -18,6 +18,5 @@ The last two arguements, expected as an input are:
   - the coordinates X1, Y1 of the cell, which color the program is to inspect throughout different generations
   - N, which represents the amount of different generations of the "Generation Zero" grid, that are to be generated
 
-!NB COORDINATES FORMAT: [X,Y], where in a 3x3 grid: 000 [1,0] is the top center cell. NB! (not as usual)
-                                                    111
-                                                    000 
+!NB COORDINATES FORMAT: [X,Y], where in a 3x3 grid [1,0] is the top center cell. NB! (not as usual)
+                
